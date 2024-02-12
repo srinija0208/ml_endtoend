@@ -3,3 +3,5 @@
 ## initialize git
 
 ## git init
+
+## git pull
